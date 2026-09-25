@@ -1,0 +1,97 @@
+scg@raspberrypi:~/csci212_fall2024/Lab5 $ ./play_poker
+Starting Hand:
+1. suit = 2, value = 8
+2. suit = 0, value = 13
+3. suit = 1, value = 7
+4. suit = 2, value = 13
+5. suit = 3, value = 8
+Select a card to replace, or enter 0 to stop: 3
+Select a card to replace, or enter 0 to stop: 0
+
+Final Hand:
+1. suit = 2, value = 8
+2. suit = 0, value = 13
+3. suit = 3, value = 13
+4. suit = 2, value = 13
+5. suit = 3, value = 8
+
+Your hand value: Full House
+
+
+scg@raspberrypi:~/csci212_fall2024/Lab5 $ ./play_poker
+Starting Hand:
+1. suit = 1, value = 5
+2. suit = 0, value = 3
+3. suit = 2, value = 7
+4. suit = 0, value = 4
+5. suit = 3, value = 1
+Select a card to replace, or enter 0 to stop: 3
+Select a card to replace, or enter 0 to stop: 0
+
+Final Hand:
+1. suit = 1, value = 5
+2. suit = 0, value = 3
+3. suit = 3, value = 2
+4. suit = 0, value = 4
+5. suit = 3, value = 1
+
+Your hand value: Straight
+
+
+scg@raspberrypi:~/csci212_fall2024/Lab5 $ ./play_poker
+Starting Hand:
+1. suit = 1, value = 8
+2. suit = 1, value = 2
+3. suit = 2, value = 7
+4. suit = 1, value = 3
+5. suit = 0, value = 6
+Select a card to replace, or enter 0 to stop: 3
+Select a card to replace, or enter 0 to stop: 5
+Select a card to replace, or enter 0 to stop: 0
+
+Final Hand:
+1. suit = 1, value = 8
+2. suit = 1, value = 2
+3. suit = 3, value = 3
+4. suit = 1, value = 3
+5. suit = 2, value = 2
+
+Your hand value: Two Pair
+
+scg@raspberrypi:~/csci212_fall2024/Lab5 $ ./play_poker
+Starting Hand:
+1. suit = 1, value = 6
+2. suit = 1, value = 12
+3. suit = 2, value = 6
+4. suit = 2, value = 8
+5. suit = 0, value = 6
+Select a card to replace, or enter 0 to stop: 2
+Select a card to replace, or enter 0 to stop: 4
+Select a card to replace, or enter 0 to stop: 0
+
+Final Hand:
+1. suit = 1, value = 6
+2. suit = 0, value = 13
+3. suit = 2, value = 6
+4. suit = 0, value = 12
+5. suit = 0, value = 6
+
+Your hand value: Three of a Kind
+
+Starting Hand:
+1. suit = 3, value = 7
+2. suit = 3, value = 3
+3. suit = 2, value = 2
+4. suit = 3, value = 2
+5. suit = 3, value = 10
+Select a card to replace, or enter 0 to stop: 3
+Select a card to replace, or enter 0 to stop: 0
+
+Final Hand:
+1. suit = 3, value = 7
+2. suit = 3, value = 3
+3. suit = 3, value = 6
+4. suit = 3, value = 2
+5. suit = 3, value = 10
+
+Your hand value: Flush
